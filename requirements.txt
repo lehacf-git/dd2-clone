@@ -1,0 +1,1 @@
+$(cat /home/lehacf/Games/dd2/requirements.txt)
